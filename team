@@ -1,1 +1,53 @@
-[{"title":"Dawn of the Planet of the Apes","releaseYear":"2014"}]
+[
+  
+   {
+      "id":"1",
+      "image_title":"Paras Khadka",
+      "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Paras_Khadka_NP.JPG/800px-Paras_Khadka_NP.JPG"
+   },
+   {
+      "id":"2",
+      "image_title":"Gyanendra Malla",
+      "image_url":"http://archive.nagariknews.com/media/k2/items/cache/bf02142b75a6411469557e285a700ee5_L.jpg"
+   },
+   {
+      "id":"3",
+      "image_title":"Shakti Gauchan",
+      "image_url":"http://p.imgci.com/db/PICTURES/CMS/173000/173093.jpg"
+   },
+   {
+      "id":"4",
+      "image_title":"Sompal Kami",
+      "image_url":"https://i.cricketcb.com/stats/img/faceImages/9970.jpg"
+   },
+   {
+      "id":"5",
+      "image_title":"Anil Kumar Sah(W)",
+      "image_url":"http://english.onlinekhabar.com/wp-content/uploads/2018/04/Anil-Kumar-Sah.jpg"
+   },
+   {
+      "id":"6",
+      "image_title":"Sharad Vesawkar",
+      "image_url":"http://p.imgci.com/db/PICTURES/CMS/172900/172997.jpg"
+   },
+   {
+      "id":"7",
+      "image_title":"Basant Regmi",
+      "image_url":"http://assets-cdn.ekantipur.com/images/the-kathmandu-post-archive/2014/20140107regmi-stars-in-nepals-victory-600x0.jpg"
+   },
+   {
+      "id":"8",
+      "image_title":"Sandeep Lamichhane",
+      "image_url":"http://1hu9t72zwflj44abyp2h0pfe-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/Sandeep-Lamichhane-e1516513465542.jpg"
+   },
+     {
+      "id":"9",
+      "image_title":"Aarif Sheikh",
+      "image_url":"https://i.cricketcb.com/stats/img/faceImages/10126.jpg"
+   },
+     {
+      "id":"10",
+      "image_title":"Dipendra Singh Airee",
+      "image_url":"http://cricinfonepal.com/wp-content/uploads/2016/12/download-e1489144185711.jpg"
+   }
+]
